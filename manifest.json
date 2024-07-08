@@ -1,7 +1,7 @@
 {
     "name": "trushin",
     "short_name": "trushin",
-    "start_url": ".",
+    "start_url": "/trushin",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
